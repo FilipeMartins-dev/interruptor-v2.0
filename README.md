@@ -3,4 +3,4 @@
  - Um projeto para treinar minhas habilidades básicas de CSS e JavaScript.
  - <a target="_blank" href="https://filipemartins-dev.github.io/interuptor-v2.0/">Entrar na página</a> 
 
- <img src="./print.png" style="border-radius: 8px;">
+ <img src="./print.png" style="border-radius: 8px">
